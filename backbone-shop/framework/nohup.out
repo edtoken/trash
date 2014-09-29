@@ -1,0 +1,3 @@
+ICE default IO error handler doing an exit(), pid = 6082, errno = 11
+ICE default IO error handler doing an exit(), pid = 6480, errno = 11
+ICE default IO error handler doing an exit(), pid = 7971, errno = 11

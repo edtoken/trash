@@ -1,0 +1,47 @@
+[
+    {
+        "name":"product 1",
+        "price":"100",
+        "descr":"product description"
+    },
+    {
+        "name":"product 2",
+        "price":"120",
+        "descr":"product description"
+    },
+    {
+        "name":"product 3",
+        "price":"1000",
+        "descr":"product description"
+    },
+    {
+        "name":"product 4",
+        "price":"300",
+        "descr":"product description"
+    },
+    {
+        "name":"product 5",
+        "price":"101",
+        "descr":"product description"
+    },
+    {
+        "name":"product 6",
+        "price":"200",
+        "descr":"product description"
+    },
+    {
+        "name":"product 7",
+        "price":"112",
+        "descr":"product description"
+    },
+    {
+        "name":"product 8",
+        "price":"220",
+        "descr":"product description"
+    },
+    {
+        "name":"product 8",
+        "price":"113",
+        "descr":"product description"
+    }
+]
